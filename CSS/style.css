@@ -1,0 +1,44 @@
+body{
+    font-family: Helveticas;
+    text-align: center;
+    background-color: gray;
+    padding:0;
+    margin: 0;
+    color:purple;
+  }
+  img{
+    background-color: #ffffff;
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    border: pink;
+  }
+  
+  nav{
+      display: flex;
+      padding: 20px;
+      justify-content: space-between;
+      border-bottom: 1px solid #ffffff;
+  }
+  nav ul{
+      display: flex;
+      align-items: center;
+      list-style: none;
+  }
+  ul li{
+      margin-right: 12px;
+  }
+  ul li a{
+      color:purple;
+      align-items: righton; 
+  }
+  h1{
+      font-size: 32px;
+  }
+  
+  html, body{
+      height: 100%;
+  }
+  .p{
+      color: black;
+  }
