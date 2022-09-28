@@ -1,2 +1,3 @@
-# celular
- primeiro projeto
+# Primeiro projeto individual.
+Criando um Portfólio
+ 
